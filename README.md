@@ -42,8 +42,11 @@ OpenNLP: Apache OpenNLP library for machine learning based processing of natural
 
 How to train your custom AI model to extract entity?
 In this example, we'll extract BP Reading from the medical notes of the doctor using Spacy module in Python. To proceed, create a virtual environment in python and activate the virtual environment using the below commands.
+```bash
 python -m venv ner_venv
 ner_venv\Scripts\activate
+```
+
 Once the virtual environment is activated, install the spacy module. This example is based on the Open-Source spacy module. 
 pip install spacy
 Once the package is installed, we need to create a sample dataset which we will consume to train the model. For this example, let me create some dummy text and add the span of the text that needs to be labelled. 
