@@ -1,0 +1,6 @@
+Text|BeginOffset|EndOffset|Category
+Physical examination revealed elevated blood pressure (140/90 mmHg)|55|66|BLOOD_PRESSURE_READING
+Patient visited with BP reading 120/80 mmHg. Symptoms include dizziness and fatigue.|32|43|BLOOD_PRESSURE_READING
+BP recorded as 135 over 90 during the last check-up. Patient complains of occasional headaches.|15|26|BLOOD_PRESSURE_READING
+Today's BP reading is 130/85. Patient reports feeling lightheaded and short of breath.|22|28|BLOOD_PRESSURE_READING
+Patient recent BP reading shows 120/90 mmHg at 10 AM|32|38|BLOOD_PRESSURE_READING
